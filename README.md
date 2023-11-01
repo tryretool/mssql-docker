@@ -13,4 +13,4 @@ Spin up an Microsoft SQL Server DB with the [Northwinds sample dataset](https://
     pw: (see SA_PASSWORD in compose.yml)
     ````
 
-
+4) Outside of Retool, use a SQL GUI like [TablePlus](https://tableplus.com/) to connect to the database to inspect data/run queries
