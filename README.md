@@ -1,7 +1,7 @@
 # mssql-docker
 Spin up an Microsoft SQL Server DB with the [Northwinds sample dataset](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs) for local testing via Docker Desktop
 
-Requirements: Docker Desktop v4.24+ with VirtioFS enabled (Rosetta for emulation recommended)
+Requirements: Docker Desktop v4.24+ with both VirtioFS and Rosetta for emulation enabled
 
 1) Set the [tag](https://hub.docker.com/_/microsoft-mssql-server) you want to use in `database.Dockerfile`
 
